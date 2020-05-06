@@ -5,7 +5,7 @@
   "forceUpdateUrl": "market://details?id=street.fighter.classic",
   "checkClone": false,
   "reviewVersion": -1,
-  "showNESGamesTimeDelay": 100,
+  "showNESGamesTimeDelay": 0,
   "adsNetwork": 0,
   "adsType": 0,
   "numberPressToShowAds": 20,
