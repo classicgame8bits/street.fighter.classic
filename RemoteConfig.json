@@ -8,7 +8,7 @@
   "showNESGamesTimeDelay": 0,
   "adsNetwork": 0,
   "adsType": 1,
-  "numberPressToShowAds": 20,
+  "numberPressToShowAds": 10,
   "showBannerMenu": false,
   "showBannerPlay": false,
   "showNewGames": false,
